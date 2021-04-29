@@ -1,3 +1,3 @@
 # Pathfinding
-A* algorithm in unity
+A* algorithm in unity <br>
 pisane na kolanie
